@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#22D3EE" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background with gradient border -->
+  <rect x="20" y="20" width="472" height="472" rx="110" fill="#020617" stroke="url(#logo-grad)" stroke-width="24" />
+  
+  <!-- Orbit Icon scaled and centered -->
+  <g transform="translate(116, 116) scale(11.6)" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="12" cy="12" r="3" />
+    <circle cx="3" cy="16" r="1" fill="#22D3EE" />
+    <circle cx="21" cy="8" r="1" fill="#22D3EE" />
+    <path d="M10.1 21.8a9 9 0 0 0 11.5-11.5" />
+    <path d="M13.9 2.2a9 9 0 0 0-11.5 11.5" />
+  </g>
+</svg>
