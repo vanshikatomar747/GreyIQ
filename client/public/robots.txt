@@ -2,4 +2,7 @@ User-agent: *
 Disallow: /admin-login
 Disallow: /admin-dashboard
 Disallow: /student-dashboard
+Disallow: /dashboard
 Disallow: /api/
+
+Sitemap: https://www.greyiqsolutions.com/sitemap.xml
